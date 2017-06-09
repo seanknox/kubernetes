@@ -44,7 +44,6 @@ var cloudproviders = []string{
 	"azure",
 	"cloudstack",
 	"gce",
-	"mesos",
 	"openstack",
 	"ovirt",
 	"photon",
